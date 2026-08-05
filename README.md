@@ -13,7 +13,7 @@ Este proyecto fue desarrollado bajo metodologías ágiles, implementando una arq
 *   **Despliegue Continuo:** Integración con Vercel para despliegues automáticos (CI/CD) tras cada actualización en la rama principal.
 
 ## Stack Tecnológico
-*   **Frontend:** React.js, Tailwind CSS.
+*   **Frontend:** Lo que se vaya a usar.
 *   **Backend:** Node.js, Express.js.
-*   **Base de Datos:** (Escribir aquí MongoDB o Supabase, lo que vayan a usar)
-*   **Control de Versiones:** Git y GitHub (Estrategia: **Git Flow**).
+*   **Base de Datos:** tal vez mongo db o no se
+*   **Control de Versiones:** Git y GitHub.
